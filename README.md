@@ -61,19 +61,27 @@ This project requires the following modules:
 This analysis on one hand shows some information about players like distribution of left/right handed, ranks, correlation between height and rank and etc.
 For example what is distribution of left/right handed plyers:
 
+
 ![My Image](images/left_right_handed.png)
+
 
 Or correlation between a player's height and their ranking:
 
+
 ![My Image](images/height_ranck_corr.png)
+
 
 On the other some analysis about matches has been done, like number of wins, number of championships for each countries and ect.
 For example what is the most common type of surface used in tournaments?
 
+
 ![My Image](images/common_surface.png)
+
 
 or finding top 10 countries based on number of wins.
 
+
 ![My Image](images/top_10_winner_countries.png)
+
 
 For future work an ML model will reveal more aspect of data.
