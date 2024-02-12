@@ -20,6 +20,7 @@ This project requires the following modules:
 
 ## Code structure
 
+```
 ├── tennis_data_20231212
 │   ├── raw_match_parquet
 │   ├── raw_odds_parquet
@@ -29,7 +30,8 @@ This project requires the following modules:
 |   └── raw_vote_parquet
 ├── HW10_project_data.ipynb
 ├── README.md
-└── .gitignore 
+└── .gitignore
+```
 
 ## Data section
 
